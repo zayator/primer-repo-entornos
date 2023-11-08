@@ -1,2 +1,2 @@
-Tuorial de Github de w3 schools
+Tutorial de Github de w3schools
 Primer repositorio subido. 
